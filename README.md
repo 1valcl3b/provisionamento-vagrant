@@ -39,10 +39,8 @@ O script de provisionamento (`config.sh`) realiza as seguintes configaracoes:
    ```bash
    git clone https://github.com/1valcl3b/provisionamento-vagrant.git
    cd provisionamento-vagrant
-  '''
    
 2. Dê permissão de execução ao script de provisionamento:
-
   ```bash
   chmod +x config.sh
 ```
