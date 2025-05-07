@@ -1,10 +1,6 @@
 # provisionamento-vagrant
 
 Este projeto tem como objetivo demonstrar a criação e o provisionamento automatizado de um ambiente virtual Linux utilizando a ferramenta **Vagrant** em conjunto com **VirtualBox**. O cenário simula a configuração de um servidor básico, com instalação de serviços essenciais e boas práticas iniciais de segurança e administração.
-A
-cesse a página provisionada pelo navegador:
-
-http://192.168.57.14 (interface privada
 
 ## Ambiente Virtual
 
