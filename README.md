@@ -8,7 +8,7 @@ A máquina virtual provisionada utiliza o **Ubuntu 22.04** e está configurada c
 
 - 1 GB de memória RAM
 - Rede pública (modo bridge)
-- Rede privada com IP fixo (`192.168.57.14`)
+- Rede privada com IP fixo
 - Três discos adicionais de 1 GB cada
 - Hostname: `vm1-ivalcleb`
 
