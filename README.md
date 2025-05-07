@@ -25,7 +25,6 @@ O script de provisionamento (`config.sh`) realiza as seguintes configaracoes:
 - Instalação e ativação do **fail2ban**, para proteção contra ataques de força bruta
 - Instalação do **unattended-upgrades** para atualizações automáticas de segurança
 - Configuração do **NTP** para sincronização de horário
-- Criação de uma página web de teste em `/var/www/html/index.html`
 
 ## Requisitos
 
